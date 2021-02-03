@@ -8,3 +8,8 @@
 https://www.youtube.com/watch?v=hus2LksB3O4  
 总结：  
 推荐理由：  
+
+* State & Binding | SwiftUI in 5 minutes | 2020  
+https://www.youtube.com/watch?v=QHhot1qhOZ8  
+时长4分43秒，展示了 `@State` 和 `@Binding` 怎么用
+
