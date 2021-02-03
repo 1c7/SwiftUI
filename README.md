@@ -33,9 +33,10 @@ https://www.youtube.com/watch?v=I1oq3KV4SgM
 
 
 ## 专门做 SwiftUI 教程的 Youtube 频道
-https://www.youtube.com/c/JamesHaville/videos
+https://www.youtube.com/c/JamesHaville/videos    
 （优质）很多项目  
-
-
-
+  
+Stewart Lynch    
+https://www.youtube.com/c/StewartLynch/videos    
+也是大量的 Swift 教程  
 
