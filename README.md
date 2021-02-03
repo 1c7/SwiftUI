@@ -11,8 +11,8 @@ https://www.youtube.com/watch?v=hus2LksB3O4
 
 * State & Binding | SwiftUI in 5 minutes | 2020  
 https://www.youtube.com/watch?v=QHhot1qhOZ8  
-时长4分43秒，展示了 `@State` 和 `@Binding` 怎么用
+4分43秒，展示了 `@State` 和 `@Binding` 怎么用
 
-* SwiftUI Prototyping Wallet App Interactive UI (Part One) | iOS 14+ | Xcode 12+
-https://www.youtube.com/watch?v=4AD74MAAx58
-介绍：21分钟，在 Dribbble 上找了个钱包 App 的设计图，然后照着设计图实现了一个一模一样的界面
+* SwiftUI Prototyping Wallet App Interactive UI (Part One) | iOS 14+ | Xcode 12+  
+https://www.youtube.com/watch?v=4AD74MAAx58  
+21分46秒，在 Dribbble 上找了个钱包 App 的设计图，然后照着设计图实现了一个一模一样的界面  
