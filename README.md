@@ -14,10 +14,18 @@ https://www.youtube.com/watch?v=hus2LksB3O4
 https://www.youtube.com/watch?v=QHhot1qhOZ8  
 4分43秒，展示了 `@State` 和 `@Binding` 怎么用
 
-* SwiftUI Property Wrappers
-https://www.youtube.com/watch?v=yWdJ3dRRDlk
-23分钟
-演示了 `State`, `Binding`, `%`, `@ObservedObject`, `class User : ObservableObject {`
+* SwiftUI Property Wrappers   
+https://www.youtube.com/watch?v=yWdJ3dRRDlk    
+23分钟演示了 `@State`, `@Binding`, `%`, `@ObservedObject`, `class User : ObservableObject {`    
+非常好的教程，讲清楚了这些概念,
+```swift
+@ObservedObject var user: User
+self.user.luckyNumber
+user.name
+```
+更新后
+的
+user.name
 
 ## 普通（三星）
 
