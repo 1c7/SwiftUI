@@ -23,9 +23,13 @@ https://www.youtube.com/watch?v=yWdJ3dRRDlk
 self.user.luckyNumber
 user.name
 ```
-更新后
-的
-user.name
+更新后的第二版教程 https://www.youtube.com/watch?v=u3RIfxSk1As&t=0s  
+直接看这个就行了  
+
+* Custom Button Styles for SwiftUI
+https://www.youtube.com/watch?v=vOyx4whZXcU&t=0s
+22分钟，教怎么定制按钮样式，定制外观. 比如按钮的背景颜色，圆角，字体颜色，按下时的变化  
+
 
 ## 普通（三星）
 
@@ -44,6 +48,9 @@ https://www.youtube.com/watch?v=hrdbPGpWEoI
 https://www.youtube.com/watch?v=I1oq3KV4SgM  
 12分钟  
 
+* 做一个天气 App  
+SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course  
+https://www.youtube.com/watch?v=FA4ksgVip9E  
 
 ## 专门做 SwiftUI 教程的 Youtube 频道
 https://www.youtube.com/c/JamesHaville/videos    
@@ -53,3 +60,8 @@ Stewart Lynch
 https://www.youtube.com/c/StewartLynch/videos    
 也是大量的 Swift 教程  
 
+
+## 暂时用不上
+* App Store Card Transition with Andrei Blaj, Senior iOS Developer  
+https://www.youtube.com/watch?v=1j7hsEmylg0  
+这个好像是用 UIKit, 不是 SwiftUI, 做了一个类似  App Store 的东西  
