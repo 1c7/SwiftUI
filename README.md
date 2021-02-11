@@ -28,6 +28,9 @@ user.name
 user.name
 
 ## 普通（三星）
+* Use @AppStorage property wrapper to read and write values from the UserDefaults | SwiftUI Tutorial
+https://www.youtube.com/watch?v=DlZsxRFZCAo
+4分钟的视频，十分简洁的演示了
 
 ## 差（一星）
 
