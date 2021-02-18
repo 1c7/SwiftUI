@@ -66,8 +66,28 @@ https://www.youtube.com/c/StewartLynch/videos
 Digital Hole(2021-2)
 https://www.youtube.com/c/DigitalHole/videos
 
+Swiftful Thinking
+https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg
+
 
 ## 暂时用不上
 * App Store Card Transition with Andrei Blaj, Senior iOS Developer  
 https://www.youtube.com/watch?v=1j7hsEmylg0  
 这个好像是用 UIKit, 不是 SwiftUI, 做了一个类似  App Store 的东西  
+
+
+Livestream: Design and code the App Store Today in Figma and SwiftUI
+https://www.youtube.com/watch?v=jwWfhM7ZuaI
+1个小时17分钟，是 DesignCode 做的。  
+做了个简单的类似 App Store 的卡片。  
+
+
+SwiftUI 2.0 Shared Tab Bar For iOS - iPadOS & macOS - Custom Animations - SwiftUI Tutorials
+https://www.youtube.com/watch?v=ZitioDxyzWU
+14分钟。自定义了一个 Tab 切换的页面，手机和 iPad 都有。思路可以借鉴。
+
+SwiftUI 2.0 Custom Animated Slider - Vertical Slider - SwiftUI Tutorials
+https://www.youtube.com/watch?v=wdNu0ae5gBE
+6分钟，做一个可以拖动的条条，0%到100%
+
+
