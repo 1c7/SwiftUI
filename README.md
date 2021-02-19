@@ -56,18 +56,22 @@ SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and
 https://www.youtube.com/watch?v=FA4ksgVip9E  
 
 ## 专门做 SwiftUI 教程的 Youtube 频道
+* JamesHaville
 https://www.youtube.com/c/JamesHaville/videos    
 （优质）很多项目  
   
-Stewart Lynch    
+* Stewart Lynch    
 https://www.youtube.com/c/StewartLynch/videos    
 也是大量的 Swift 教程  
 
-Digital Hole(2021-2)
+* Digital Hole(2021-2)
 https://www.youtube.com/c/DigitalHole/videos
 
-Swiftful Thinking
+* Swiftful Thinking (五星好评)
 https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg
+
+* Kristijan Kralj  
+https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos
 
 
 ## 暂时用不上
