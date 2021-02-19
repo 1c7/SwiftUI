@@ -1,17 +1,13 @@
 # SwiftUI 优秀教程
 
 ## 介绍
-1. 这里的教程都是我看完并觉得是高质量的。
-2. Github 上其他的 SwiftUI 列表太长太多太乱了，所以自己做个表。
+1. 这里的教程我都看完了并觉得是高质量的。
+2. Github 上其他的 SwiftUI 列表太多太乱了，所以自己做个表。
 
 ## 优秀（五星）
-* Build a Mac app inside 30 minutes using nothing but SwiftUI  
-https://www.youtube.com/watch?v=hus2LksB3O4  
-总结：  
-推荐理由：  
+* [Build a Mac app inside 30 minutes using nothing but SwiftUI](https://www.youtube.com/watch?v=hus2LksB3O4)
 
-* State & Binding | SwiftUI in 5 minutes | 2020  
-https://www.youtube.com/watch?v=QHhot1qhOZ8  
+* [State & Binding | SwiftUI in 5 minutes | 2020](https://www.youtube.com/watch?v=QHhot1qhOZ8 )   
 4分43秒，展示了 `@State` 和 `@Binding` 怎么用
 
 * SwiftUI Property Wrappers   
@@ -56,24 +52,17 @@ SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and
 https://www.youtube.com/watch?v=FA4ksgVip9E  
 
 ## 专门做 SwiftUI 教程的 Youtube 频道
-* JamesHaville
-https://www.youtube.com/c/JamesHaville/videos    
+* [JamesHaville](https://www.youtube.com/c/JamesHaville/videos)  
 （优质）很多项目  
   
-* Stewart Lynch    
-https://www.youtube.com/c/StewartLynch/videos    
+* [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos)    
 也是大量的 Swift 教程  
 
-* Digital Hole(2021-2)
-https://www.youtube.com/c/DigitalHole/videos
+* [Digital Hole(2021-2)](https://www.youtube.com/c/DigitalHole/videos)
 
-* Swiftful Thinking (五星好评)
-https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg
+* [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评  
 
-* Kristijan Kralj  
-https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos
-
-
+* [Kristijan Kralj](https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos)    
 ## 暂时用不上
 * App Store Card Transition with Andrei Blaj, Senior iOS Developer  
 https://www.youtube.com/watch?v=1j7hsEmylg0  
