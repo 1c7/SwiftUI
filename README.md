@@ -36,17 +36,11 @@ user.name
 https://www.youtube.com/watch?v=4AD74MAAx58  
 21分46秒，在 Dribbble 上找了个钱包 App 的设计图，然后照着设计图实现了一个一模一样的界面。  
 
-* SwiftUI Prototyping Wallet App Interactive UI (Part Two) | iOS 14+ | Xcode 12+  
-https://www.youtube.com/watch?v=hrdbPGpWEoI  
-下次看吧  
-
-* SwiftUI Meditation/Wellness App UI (Part One)
-https://www.youtube.com/watch?v=I1oq3KV4SgM  
+* [SwiftUI Meditation/Wellness App UI (Part One)](https://www.youtube.com/watch?v=I1oq3KV4SgM)
 12分钟  
 
-* 做一个天气 App  
-SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course  
-https://www.youtube.com/watch?v=FA4ksgVip9E  
+* [SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course](https://www.youtube.com/watch?v=FA4ksgVip9E)    
+做一个天气 App 
 
 ## 专门做 SwiftUI 教程的 Youtube 频道
 * [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评  
@@ -54,6 +48,7 @@ https://www.youtube.com/watch?v=FA4ksgVip9E
 * [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos)    
 * [Digital Hole(2021-2)](https://www.youtube.com/c/DigitalHole/videos)
 * [Kristijan Kralj](https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos)    
+* [Gary Tokman](https://www.youtube.com/c/GTokman/videos)  
 
 <!--
 ## 暂时用不上
@@ -69,5 +64,9 @@ https://www.youtube.com/watch?v=jwWfhM7ZuaI
 SwiftUI 2.0 Shared Tab Bar For iOS - iPadOS & macOS - Custom Animations - SwiftUI Tutorials
 https://www.youtube.com/watch?v=ZitioDxyzWU
 14分钟。自定义了一个 Tab 切换的页面，手机和 iPad 都有。思路可以借鉴。
+
+* SwiftUI Prototyping Wallet App Interactive UI (Part Two) | iOS 14+ | Xcode 12+  
+https://www.youtube.com/watch?v=hrdbPGpWEoI  
+下次看吧  
 
 -->
