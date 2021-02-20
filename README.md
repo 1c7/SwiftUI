@@ -5,6 +5,10 @@
 2. Github 上其他的 SwiftUI 列表太多太乱了，所以自己做个表。
 
 ## 优秀（五星）
+
+* [SwiftUI Animation](https://www.youtube.com/watch?v=z4xcp7QiUrE)
+23分钟。教动画。这个 1080p 很清晰  
+
 * [SwiftUI 2.0 Custom Animated Slider - Vertical Slider - SwiftUI Tutorials](https://www.youtube.com/watch?v=wdNu0ae5gBE)
 6分钟，做一个可以拖动的条条，0%到100%
 
@@ -44,6 +48,7 @@ https://www.youtube.com/watch?v=4AD74MAAx58
 
 ## 专门做 SwiftUI 教程的 Youtube 频道
 * [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评  
+* [Rebeloper - Rebel Developer](https://www.youtube.com/c/Rebeloper/videos)
 * [JamesHaville](https://www.youtube.com/c/JamesHaville/videos)  
 * [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos)    
 * [Digital Hole(2021-2)](https://www.youtube.com/c/DigitalHole/videos)
