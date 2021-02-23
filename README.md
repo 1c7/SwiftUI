@@ -55,6 +55,17 @@ https://www.youtube.com/watch?v=4AD74MAAx58
 * [Kristijan Kralj](https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos)    
 * [Gary Tokman](https://www.youtube.com/c/GTokman/videos)  
 
+
+## 文章
+* [SwiftUI: @State vs @StateObject vs @ObservedObject vs @EnvironmentObject](https://levelup.gitconnected.com/state-vs-stateobject-vs-observedobject-vs-environmentobject-in-swiftui-81e2913d63f9)  
+是讲状态管理的一篇文章。  
+
+* [Data Visualization With SwiftUI: Pie Charts](https://towardsdatascience.com/data-visualization-with-swiftui-pie-charts-bcad1903c5d2)   
+用 SwiftUI 画饼图。 
+
+
+
+
 <!--
 ## 暂时用不上
 * App Store Card Transition with Andrei Blaj, Senior iOS Developer  
