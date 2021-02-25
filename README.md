@@ -4,7 +4,20 @@
 1. 这里的教程我都看完了并觉得是高质量的。
 2. Github 上其他的 SwiftUI 列表太多太乱了，所以自己做个表。
 
-## 优秀（五星）
+## （频道）专门做 SwiftUI 教程的 Youtube 频道
+* [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评  
+* [Rebeloper - Rebel Developer](https://www.youtube.com/c/Rebeloper/videos)
+* [JamesHaville](https://www.youtube.com/c/JamesHaville/videos)  
+* [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos)    
+* [Digital Hole(2021-2)](https://www.youtube.com/c/DigitalHole/videos)
+* [Kristijan Kralj](https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos)    
+* [Gary Tokman](https://www.youtube.com/c/GTokman/videos)  
+
+
+## 优秀视频教程（五星评价）
+
+* [Furniture Shop App UI - SwiftUI - Speed Code](https://www.youtube.com/watch?v=EbTl0GX-bvw)
+35分钟。实现了一个卖家具 App 的首页。  
 
 * [SwiftUI Animation](https://www.youtube.com/watch?v=z4xcp7QiUrE)
 23分钟。教动画。这个 1080p 很清晰  
@@ -46,19 +59,10 @@ https://www.youtube.com/watch?v=4AD74MAAx58
 * [SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course](https://www.youtube.com/watch?v=FA4ksgVip9E)    
 做一个天气 App 
 
-## 专门做 SwiftUI 教程的 Youtube 频道
-* [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评  
-* [Rebeloper - Rebel Developer](https://www.youtube.com/c/Rebeloper/videos)
-* [JamesHaville](https://www.youtube.com/c/JamesHaville/videos)  
-* [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos)    
-* [Digital Hole(2021-2)](https://www.youtube.com/c/DigitalHole/videos)
-* [Kristijan Kralj](https://www.youtube.com/channel/UCOsu2lVqs4Sj3RjweCMxmFA/videos)    
-* [Gary Tokman](https://www.youtube.com/c/GTokman/videos)  
-
 
 ## 文章
 * [SwiftUI: @State vs @StateObject vs @ObservedObject vs @EnvironmentObject](https://levelup.gitconnected.com/state-vs-stateobject-vs-observedobject-vs-environmentobject-in-swiftui-81e2913d63f9)  
-是讲状态管理的一篇文章。  
+讲状态管理的一篇文章。  
 
 * [Data Visualization With SwiftUI: Pie Charts](https://towardsdatascience.com/data-visualization-with-swiftui-pie-charts-bcad1903c5d2)   
 用 SwiftUI 画饼图。 
