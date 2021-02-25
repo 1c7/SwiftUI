@@ -1,6 +1,4 @@
 # SwiftUI 优秀教程
-
-## 介绍
 1. 这里的教程我都看完了并觉得是高质量的。
 2. Github 上其他的 SwiftUI 列表太多太乱了，所以自己做个表。
 
@@ -15,21 +13,19 @@
 
 ## 优秀视频教程（五星评价）
 * [Furniture Shop App UI - SwiftUI - Speed Code](https://www.youtube.com/watch?v=EbTl0GX-bvw)  
-35分钟。实现了一个卖家具 App 的首页。  
+35分钟，实现了一个卖家具 App 的首页。  
 
 * [SwiftUI Animation](https://www.youtube.com/watch?v=z4xcp7QiUrE)  
-23分钟。教动画。  
+23分钟，教动画。  
 
-* [SwiftUI 2.0 Custom Animated Slider - Vertical Slider - SwiftUI Tutorials](https://www.youtube.com/watch?v=wdNu0ae5gBE)
-6分钟，做一个可以拖动的条条，0%到100%
-
-* [Build a Mac app inside 30 minutes using nothing but SwiftUI](https://www.youtube.com/watch?v=hus2LksB3O4)
+* [SwiftUI 2.0 Custom Animated Slider - Vertical Slider - SwiftUI Tutorials](https://www.youtube.com/watch?v=wdNu0ae5gBE)   
+6分钟，做一个可以拖动的垂直条，0%到100%。  
 
 * [State & Binding | SwiftUI in 5 minutes | 2020](https://www.youtube.com/watch?v=QHhot1qhOZ8 )   
 4分43秒，展示了怎么用 `@State` 和 `@Binding` 
 
 * [SwiftUI Property Wrappers](https://www.youtube.com/watch?v=u3RIfxSk1As&t=0s)   
-23分钟演示了 `@State`, `@Binding`, `%`, `@ObservedObject`, `class User : ObservableObject {}`      
+23分钟，演示了 `@State`, `@Binding`, `%`, `@ObservedObject`, `class User : ObservableObject {}`      
 非常好的教程，讲清楚了这些概念。  
 
 * [Custom Button Styles for SwiftUI](https://www.youtube.com/watch?v=vOyx4whZXcU&t=0s)  
@@ -39,7 +35,7 @@
 * [SwiftUI Prototyping Wallet App Interactive UI (Part One) | iOS 14+ | Xcode 12+](https://www.youtube.com/watch?v=4AD74MAAx58)   
 21分钟，在 Dribbble 上找了个钱包 App 的设计图，然后照着设计图实现。    
 
-* [SwiftUI Meditation/Wellness App UI (Part One)](https://www.youtube.com/watch?v=I1oq3KV4SgM)
+* [SwiftUI Meditation/Wellness App UI (Part One)](https://www.youtube.com/watch?v=I1oq3KV4SgM)  
 12分钟  
 
 * [SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course](https://www.youtube.com/watch?v=FA4ksgVip9E)    
@@ -76,5 +72,7 @@ https://www.youtube.com/watch?v=hrdbPGpWEoI
 ## 普通（三星）
 * [Use @AppStorage property wrapper to read and write values from the UserDefaults | SwiftUI Tutorial](https://www.youtube.com/watch?v=DlZsxRFZCAo)
 4分钟的视频，演示了___
+
+* [Build a Mac app inside 30 minutes using nothing but SwiftUI](https://www.youtube.com/watch?v=hus2LksB3O4)
 
 -->
