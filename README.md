@@ -3,7 +3,7 @@
 2. Github 上其他的 SwiftUI 列表太多太乱了，所以自己做个表。
 
 ## （频道）专门做 SwiftUI 教程的 Youtube 频道
-* [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评  
+* [Swiftful Thinking](https://www.youtube.com/channel/UCp25X4LzOLaksp5qY0YMUzg): 五星好评，强烈建议看这个。    
 * [Rebeloper - Rebel Developer](https://www.youtube.com/c/Rebeloper/videos)
 * [JamesHaville](https://www.youtube.com/c/JamesHaville/videos)  
 * [Stewart Lynch](https://www.youtube.com/c/StewartLynch/videos)    
@@ -12,7 +12,7 @@
 * [Gary Tokman](https://www.youtube.com/c/GTokman/videos)  
 
 ## 优秀视频教程（五星评价）
-* [Furniture Shop App UI - SwiftUI - Speed Code](https://www.youtube.com/watch?v=EbTl0GX-bvw)  
+* [Furniture Shop App UI - SwiftUI - Speed Code](https://www.youtube.com/watch?v=EbTl0GX-bvw)   
 35分钟，实现了一个卖家具 App 的首页。  
 
 * [SwiftUI Animation](https://www.youtube.com/watch?v=z4xcp7QiUrE)  
@@ -76,3 +76,10 @@ https://www.youtube.com/watch?v=hrdbPGpWEoI
 * [Build a Mac app inside 30 minutes using nothing but SwiftUI](https://www.youtube.com/watch?v=hus2LksB3O4)
 
 -->
+
+
+<!-- 
+
+How To Create A Form With SwiftUI (31:29)
+https://www.youtube.com/watch?v=t4yACRwg1h8
+ -->
